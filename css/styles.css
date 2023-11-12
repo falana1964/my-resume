@@ -1,0 +1,35 @@
+/***********tag selector*****************/
+body{ background-Color:#D6E4E5;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #62B6B7;
+  font-size: 50px;
+}
+h3{
+  color: #62B6B7;
+}
+
+img:hover {
+  background-color: gold;
+}
+/***************** class selector****************/
+.bacon{
+  background-color: green;
+}
+.brocolli{
+  background-color: red;
+}
+
+
+/***************** ID selector****************/
+#heading{
+  color: blue;
+}
